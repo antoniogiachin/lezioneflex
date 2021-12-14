@@ -59,22 +59,22 @@ Si applica al container MAIN AXYSla regola justify-content: flex-start, che le a
 Se invece CROSS allign-items:flex-start o flex-end.
 
 Lungo il main axys abbiamo inoltre
-*flex-start: allinea a sinstra
-*flex-end a destra
-*center centra gli elementi
-*space-between, dice che uno spazio tra gli elementi sia uguale
-*space around aggiunge tipo margine, comunque slides hanno gli esempi
+* flex-start: allinea a sinstra
+* flex-end a destra
+* center centra gli elementi
+* space-between, dice che uno spazio tra gli elementi sia uguale
+* space around aggiunge tipo margine, comunque slides hanno gli esempi
 
 
 Lungo il cross axys
-*flex-start
-*flex-end
-*center
-*stretch, comportamento predefinito che fa si che tutti gli elementi del nostro container abbiano la stessa lunghezza. Finalmente addio altezze fisse.
-*baseline, se negli itam c'e' un testo, fissa una linea su cui fissare il testo.
+* flex-start
+* flex-end
+* center
+* stretch, comportamento predefinito che fa si che tutti gli elementi del nostro container abbiano la stessa lunghezza. Finalmente addio altezze fisse.
+* baseline, se negli itam c'e' un testo, fissa una linea su cui fissare il testo.
 
 Flexbox nativamente mette tutto sulla stessa riga, anche se sotto abbiamo spazio a disposizione.
 Con 
-*nowrap e' il default
-*wrap va su piu' linee
+* nowrap e' il default
+* wrap va su piu' linee
 
