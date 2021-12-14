@@ -90,7 +90,10 @@ header{
 
 .logo{
     align-self: center; nota che fino ad ora abiamo dato le proprieta' ai padri, in questo caso al figlio.
-} */f
+} */
+
+/* flex tenta sempre di mettere tutti i contenuti, se io dessi agli item la width, lui fai di tutto per metterli accanto, per dirgli di metterlo su piu' righe si usa flex:wrap al padre; */
+
 
 
 
