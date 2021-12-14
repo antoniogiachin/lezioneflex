@@ -81,3 +81,7 @@ Con
 Il centraggio completo all'interno della pagina si fa metto display:flex al container e margin:auto all'item.
 
 Per riferirsi al figlio con la width oppure flex-basis in percentuale, pixel come vogiamo. Vengono fuori problemi, se gli spazi non tornano flex non prende in considerazione il flex-basis. 
+
+Flex-basis non e' obbligatorio, indica il nostro desiderio che un elemento se possibile sia di una determinata lunghezza. Con flex-grow dico il 100% dello spazio me lo dividi e distribuisci come dico io. flex-grow 1 prende una parte, flex-grow 2 due parti ad esempio.
+
+Flex-shrink fa il contrario, lo spazio mancante lo sottrai ad ogni elemento. 
