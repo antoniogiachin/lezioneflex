@@ -80,3 +80,4 @@ Con
 
 Il centraggio completo all'interno della pagina si fa metto display:flex al container e margin:auto all'item.
 
+Per riferirsi al figlio con la width oppure flex-basis in percentuale, pixel come vogiamo. Vengono fuori problemi, se gli spazi non tornano flex non prende in considerazione il flex-basis. 
