@@ -89,3 +89,6 @@ Flex-shrink fa il contrario, lo spazio mancante lo sottrai ad ogni elemento.
 #### Usare flexbox per spostare un elemento dall'essere un numero 4 ad un numero 1.
 
 Spostavamo il div o elemento fino ad ora. Abbiamo il comando order: e specifichiamo il posizionamento, per metterlo all'inizio -1.
+
+
+codepen flexbox playground per esercitarsi 
