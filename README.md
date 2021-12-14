@@ -78,3 +78,5 @@ Con
 * nowrap e' il default
 * wrap va su piu' linee
 
+Il centraggio completo all'interno della pagina si fa metto display:flex al container e margin:auto all'item.
+
