@@ -73,7 +73,7 @@ Lungo il cross axys
 * stretch, comportamento predefinito che fa si che tutti gli elementi del nostro container abbiano la stessa lunghezza. Finalmente addio altezze fisse.
 * baseline, se negli itam c'e' un testo, fissa una linea su cui fissare il testo.
 
-Flexbox nativamente mette tutto sulla stessa riga, anche se sotto abbiamo spazio a disposizione.
+Flexbox nativamente mette tutto sulla stessa riga, anche se sotto abbiamo  sspazio a disposizione.
 Con 
 * nowrap e' il default
 * wrap va su piu' linee
