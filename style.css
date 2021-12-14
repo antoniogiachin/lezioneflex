@@ -61,3 +61,36 @@
     /* margin: auto;  oppure al padre justify-content:center, align-items:center*/
 }
 
+    /* menu */
+header{
+ background-color: red;
+ height: 100px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    
+}
+
+.menu-item{
+    padding: 0px 15px;
+}
+
+.logo{
+    font-size: 60px;
+}
+
+/* se voglio uno in alto e uno in basso */
+/* header {
+    align-items: flex-start;
+}
+
+.logo{
+    align-self: center; nota che fino ad ora abiamo dato le proprieta' ai padri, in questo caso al figlio.
+} */
+
+
+
